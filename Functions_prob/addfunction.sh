@@ -1,6 +1,6 @@
 #! /bin/bash -x
 
-#function defination and declaration
+#function
 function add(){
 
 local a=$1 # assingning value from pass as to local var a
@@ -10,4 +10,4 @@ echo " inner addition $sum  " #return value
 
 }
 result="$( add 5 3)" #calling fun add and assinging
-echo $result
+echo $result 
