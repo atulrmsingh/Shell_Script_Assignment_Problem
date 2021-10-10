@@ -1,7 +1,3 @@
-#! /bin/bash -x
-#Que1.
-#read a single digit number and write the number in word using case
-#take i/p from user
 read -p "Enter a single digit : " digit
 
     case $digit in
