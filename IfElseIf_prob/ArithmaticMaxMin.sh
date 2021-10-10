@@ -1,6 +1,6 @@
 #! /bin/bash -x
 #QUE 4.
-#enter 3 the number following arithmetic operation find the one that max and min
+#enter 3 the number following arithmetic operation find the one that max,min
 #1. a+b*c
 #2.c+a/b
 #3.a%b+c
