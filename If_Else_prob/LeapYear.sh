@@ -1,6 +1,4 @@
 #! /bin/bash -x
-#QUE.3 
-#!/bin/bash -x
 
 echo "Enter year to check leap year or not "
 read -p " " year
