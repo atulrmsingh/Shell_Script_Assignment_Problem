@@ -1,6 +1,4 @@
 #!/bin/bash -x
-
-# VARIABLE
 head=1
 headCounter=0
 tailCounter=0
