@@ -30,6 +30,6 @@ function sortArray()
 # FUNCTION CALL FOR SORT ARRAY
 sortArray ${randomArray[@]}
 
-# PRINT SECOND MINIMUM AND MAXIMUM VALUE
+# PRINT SECOND MINIMUM AND MAXIMUM
 echo secondMinimumValue=${randomArray[1]}
 echo secondMaximumValue=${randomArray[8]}
